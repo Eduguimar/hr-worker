@@ -60,4 +60,4 @@ Serviço responsável pela autenticação e autorização de acesso dos usuário
 Eduardo Guimarães
 
 ## Licença
-[MIT](https://img.shields.io/npm/l/react)](https://github.com/Eduguimar/hr-worker/blob/master/LICENSE)
+[MIT](https://github.com/Eduguimar/hr-worker/blob/master/LICENSE)
